@@ -1,22 +1,22 @@
 [
   {
-    "name": "Plain Ol' Pineapple",
-    "image": "pineapple-original.jpg",
+    "name": "Logitech Mouse",
+    "image": "logitech-mouse.jpg",
     "price" : 4
   },
   {
-    "name": "Dried Pineapple",
-    "image": "pineapple-dried.jpg",
+    "name": "Flexible Keyboard",
+    "image": "flexible-keyboard.jpg",
     "price": 5
   },
   {
-    "name": "Pineapple Gum",
-    "image": "pineapple-gum.jpg",
+    "name": "Intel Core i7",
+    "image": "intel-core-i7.jpg",
     "price" : 3
   },
   {
-    "name": "Pineapple T-Shirt",
-    "image": "pineapple-tshirt.jpg",
+    "name": "insta 360",
+    "image": "insta-360.jpg",
     "price" : 12
   }
 ]
